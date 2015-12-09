@@ -1,7 +1,7 @@
 name: StillpointSF
 favicon: null
-layout_spectrum: 0.17060452979058027
-typography_spectrum: 0.28005559532903135
+layout_spectrum: 0.88989
+typography_spectrum: 0.48556
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.3017321943771094
+    - '#ffffff'
+    - '#979797'
+    - '#2a3a8f'
+    - '#26a9e1'
+    - '#5f61a9'
+  brandStrength: 0.625
   lightness: 0.5409516929648817
-  saturation: 0.6685275556519628
+  saturation: 0.5625
   rhythmicContrast: 0.9814453911967576
 purpose: []
