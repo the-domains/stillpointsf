@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Stillpoint Wellness Center]]></title>
+        <description><![CDATA[Stillpoint Wellness Center]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 11 Dec 2015 05:32:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Stillpoint Wellness Center SF]]></title>
+            <description><![CDATA[<article><h1>Stillpoint Wellness Center SF</h1><p>At Stillpoint Wellness Center, our mission is to treat the body as a whole by providing a combination of integrated services with highly experienced practitioners. Through naturopathic medicine, acupuncture, massage, and skincare, and psychotherapy, we treat a wide range of health concerns including male and female health, anti-aging, fertility, mental & emotional health, pain management, sports injuries, digestive troubles as well as offering techniques in preventative medicine, and stress management.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7af5aaba89aeca43d05c17a92831ac18d272c96.png"></article>]]></description>
+            <link>http://www.stillpointsf.com/</link>
+            <guid isPermaLink="false">d2df0f2a-b0c8-46fc-b569-6e11b62fd0cb</guid>
+            <pubDate>Fri, 11 Dec 2015 05:32:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
